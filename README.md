@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maddeh
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Maddeh capc
+- 🌱 I’m currently learning not to stop where im now
+- 💞️ 
+- 📫 reach me ...@ a girl has no name7
 
 <!---
 Maddehh11/Maddehh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
